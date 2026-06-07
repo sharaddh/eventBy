@@ -5,9 +5,7 @@ import EventCard from './EventCard';
 import { eventAPI } from '../lib/api';
 
 const AnalogDatePicker = () => {
-  const boxWidth = 55; // Exact width of one date segment
-  
-  /* ================= TIMELINE GENERATION ================= */
+  const boxWidth = 55;
   const timeline = useMemo(() => {
     return Array.from({ length: 70 }, (_, i) => {
       const d = new Date();
