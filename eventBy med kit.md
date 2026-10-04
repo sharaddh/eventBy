@@ -1,4 +1,4 @@
-# EventBy — Infosys Interview Rapid Revision
+# EventBy — Med Kit
 
 > **Purpose:** This is a last-minute interview handbook for explaining and defending the EventBy project.
 >
